@@ -13,13 +13,13 @@
 
 // How do you access the first element of any array?
 
-// Create a new array called nameLengths. Write a loop to iterate over the previously created names array and add the length of each name to the nameLengths array.
+// 5. Create a new array called nameLengths. Write a loop to iterate over the previously created names array and add the length of each name to the nameLengths array.
 // For example:
 
 // let names = ["Kelly", "Sam", "Kate"];    // starting with this array
 // let nameLengths = [5, 3, 4];             // create a new array
 
-// Write a loop to iterate over the nameLengths array and calculate the sum of all the elements in the array.
+// 6. Write a loop to iterate over the nameLengths array and calculate the sum of all the elements in the array.
 
 // 7. Write a function that takes two parameters, word and n, as arguments and returns the word concatenated to itself n number of times. (i.e. if I pass in 'Hello' and 3, I would expect the function to return 'HelloHelloHello').
 
