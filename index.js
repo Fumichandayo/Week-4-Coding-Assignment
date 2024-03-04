@@ -9,9 +9,9 @@
 // Use a loop to iterate through the array and calculate the average number of letters per name.
 // Use a loop to iterate through the array again and concatenate all the names together, separated by spaces.
 
-// How do you access the last element of any array?
+// 3. How do you access the last element of any array?
 
-// How do you access the first element of any array?
+// 4. How do you access the first element of any array?
 
 // 5. Create a new array called nameLengths. Write a loop to iterate over the previously created names array and add the length of each name to the nameLengths array.
 // For example:
